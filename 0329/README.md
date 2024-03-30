@@ -17,3 +17,12 @@
 
 <a href="https://github.com/kim-do-kyun/React/blob/main/0329/book/public/clock2.html">[간단한 시계</a>, <a href="https://github.com/kim-do-kyun/React/blob/main/0329/book/public/binary.html">바이너리 시계]</a>
 위의 두 시계는 수업시간 실습했던 예제들로 DOM 전체가 변경되는 것이 아니라 필요한 부분만 변경하여 구현되었습니다.
+
+<br>
+
+## :clipboard: 자기소개 페이지
+
+## :mag: 피그마 기획
+* 피그마로 포트폴리오 만들기
+  * 깃허브에 올려둔 북스터디, 수업으로 만든 아웃풋 등을 적절히 배치하여 구성
+  * 프론트엔드 라이브러리로 React 사용예정
