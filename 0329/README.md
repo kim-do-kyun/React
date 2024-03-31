@@ -6,21 +6,24 @@
 <br>
 
 ## :pencil: JSX Code 작성해보기
-<a href="https://github.com/kim-do-kyun/React/tree/main/0329/book/src/jsxCode">[JSX Code 작성]</a> 
-위의 링크를 타고보면 수업시간때 작성했던 코드를 볼수있습니다. 실행은 아래와 같습니다.
-![스크린샷 2024-03-29 185811](https://github.com/kim-do-kyun/React/assets/70315428/ef46ad76-12b5-41d1-9522-85d9f322c027)
+<a href="https://kim-do-kyun.github.io/React/0329/수업내용/book/build/">[JSX Code 작성]</a> 
+위의 링크를 타고보면 수업시간때 작성했던 코드를 볼수있습니다.
 
 <br>
 
 ## :alarm_clock: 간단한 시계
 > 자바스크립트로 실시간 시간 표시하기
 
-<a href="https://github.com/kim-do-kyun/React/blob/main/0329/book/public/clock2.html">[간단한 시계</a>, <a href="https://github.com/kim-do-kyun/React/blob/main/0329/book/public/binary.html">바이너리 시계]</a>
+<a href="https://kim-do-kyun.github.io/React/0329/수업내용/clock2.html">[간단한 시계</a>, <a href="https://kim-do-kyun.github.io/React/0329/수업내용/binary.html">바이너리 시계]</a>
 위의 두 시계는 수업시간 실습했던 예제들로 DOM 전체가 변경되는 것이 아니라 필요한 부분만 변경하여 구현되었습니다.
 
 <br>
 
 ## :clipboard: 자기소개 페이지
+* Html, Css만 사용해서 만든 <a href="https://kim-do-kyun.github.io/React/0329/profile.html">자기소개페이지</a> 
+* Jsx사용해서 만든 <a href="https://kim-do-kyun.github.io/React/0329/자기소개페이지/build/">자기소개페이지</a>
+
+<br>
 
 ## :mag: 피그마 기획
 * 피그마로 포트폴리오 만들기
