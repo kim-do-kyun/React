@@ -16,9 +16,10 @@
 
 <br>
 
-## :pencil: 과제
+## :pencil: <a href="https://kim-do-kyun.github.io/React/0405/build">과제</a>
 >웹 사이트를 5개 이상의 컴포넌트로 구성하고,
 >2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하기
+* 위의 과제 클릭시 이동
 
 #### 컴포넌트들
 * 공통되는 INFO, SKILLS, CONTACT(h2)태그들은 Createh2.js에게 props전달 후 받음
