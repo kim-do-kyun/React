@@ -19,13 +19,13 @@
 ## :pencil: <a href="https://kim-do-kyun.github.io/React/0405/build">과제</a>
 >웹 사이트를 5개 이상의 컴포넌트로 구성하고,
 >2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하기
-* 위의 과제 클릭시 이동
+* 파란부분 클릭시 각각의 정보위치로 이동(과제의 경우 웹 사이트로 이동)
 
 #### 컴포넌트들
-* 공통되는 INFO, SKILLS, CONTACT(h2)태그들은 Createh2.js에게 props전달 후 받음
-##### Header.js
+* 공통되는 INFO, SKILLS, CONTACT(h2)태그들은 <strong><a href = "https://github.com/kim-do-kyun/React/blob/main/0405/src/jsxCode/Createh2.js">Createh2.js</a></strong>에게 props전달 후 받음
+##### <a href = "https://github.com/kim-do-kyun/React/blob/main/0405/src/jsxCode/Header.js">Header.js</a>
 * 자기소개페이지 제일 윗부분인 사진, 이름, 학번, 학과 등을 구성
-##### Infos.js
-* 코드 구성시 **CreateInfo.js**에게 : 기준으로 왼쪽 props, 오른쪽 props를 넘겨 css를 입힌 후 받음
-##### App.js
+##### <a href = "https://github.com/kim-do-kyun/React/blob/main/0405/src/jsxCode/Infos.js">Infos.js</a>
+* 코드 구성시 <strong><a href="https://github.com/kim-do-kyun/React/blob/main/0405/src/jsxCode/CreateInfo.js">CreateInfo.js</a></strong>에게 : 기준으로 왼쪽 props, 오른쪽 props를 넘겨 css를 입힌 후 받음
+##### <a href = "https://github.com/kim-do-kyun/React/blob/main/0405/src/App.js">App.js</a>
 * 기본 구성이되는 css스타일을 카멜케이스로 구현하고, 구현했던 컴포넌트들을 이용해서 배치함
