@@ -13,3 +13,4 @@
 |<a href="https://github.com/kim-do-kyun/React/tree/main/0322">리액트 시작하기(2024.03.22)|
 |<a href="https://github.com/kim-do-kyun/React/tree/main/0329">JSX, 자기소개페이지, 수업내용 등(2024.03.29)|
 |<a href="https://github.com/kim-do-kyun/React/tree/main/0405">Component, Props(2024.04.05)|
+|<a href="https://github.com/kim-do-kyun/React/tree/main/0412">Component, Props(추가진도), State(2024.04.05)|

@@ -3,23 +3,20 @@
 * **재사용 가능한 Component를 많이 갖고 있을수록 개발속도가 빨라진다!**
 
 ### 과제
-* <a href="">자기소개 페이지</a> 
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/Report">자기소개 페이지</a> 
 * <a href="">회원가입 페이지</a>
 
 <br>
 
 ### 수업진도(4단원)
-* <a href="">리스트 컴포넌트</a>
-* <a href="">화살표 함수</a>
-* <a href="">댓글 컴포넌트 만들기</a>
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/%EB%A6%AC%EC%8A%A4%ED%8A%B8%2C%20%ED%99%94%EC%82%B4%ED%91%9C%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8">리스트 컴포넌트, 화살표 함수</a>
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/%EB%8C%93%EA%B8%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8">댓글 컴포넌트 만들기</a>
 
 <br>
 
 ### 수업진도(5단원)
-* <a href="">카운터</a>
-* <a href="">너비와 높이 증가시키기</a>
-* <a href="">스톱워치 만들기</a>
-* <a href="">여러 개의 입력 항목을 가진 입력 양식 만들기</a>
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/%EC%B9%B4%EC%9A%B4%ED%84%B0%2C%20%EB%84%88%EB%B9%84%EC%99%80%EB%86%92%EC%9D%B4%EC%A6%9D%EA%B0%80">카운터, 너비와 높이 증가시키기</a>
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98%2C%20%EC%9E%85%EB%A0%A5%EC%96%91%EC%8B%9D">스톱워치 만들기, 여러 개의 입력 항목을 가진 입력 양식 만들기</a>
   
 <br>
 
