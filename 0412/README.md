@@ -3,8 +3,8 @@
 * **재사용 가능한 Component를 많이 갖고 있을수록 개발속도가 빨라진다!**
 
 ### 과제
-* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/Report">자기소개 페이지</a> 
-* <a href="">회원가입 페이지</a>
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/Report`">자기소개 페이지</a>
+* <a href="https://github.com/kim-do-kyun/React/tree/main/0412/Report/회원가입 페이지">회원가입 페이지</a>
 
 <br>
 
