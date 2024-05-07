@@ -28,8 +28,10 @@ const [state, dispatch] = useReducer(reducer, initialS할ate, init);
 * useReducer를 활용 한다면 좀더 복잡한 프로세스를 처리할 수 있음
 * state를 변경하는 부분이 useState와 같은 경우 내부에 위치하며, useReducer와 같은 경우 외부에 위치한다
 * **useReducer 사용**
+
 ![스크린샷 2024-05-06 201122](https://github.com/kim-do-kyun/React/assets/70315428/e2f5cb7d-7b0f-49f9-a650-59efe6875828)
 * **state 사용**
+
 ![스크린샷 2024-05-06 201231](https://github.com/kim-do-kyun/React/assets/70315428/48aff9f2-997d-4f78-b60e-e4999a999fb3)
 
 
@@ -148,9 +150,9 @@ useEffect(() => {
 ![스크린샷 2024-05-07 183931](https://github.com/kim-do-kyun/React/assets/70315428/553aef1f-2da1-4597-b886-afc05f8438aa)
 
 * 세가지 사용법(코드에 설명)
-  * 무한반복
-  * 처음에만 실행
-  * 의존성 배열 사용
+  * <a href="https://github.com/kim-do-kyun/React/blob/main/0503/Web%20Programming07/src/useEffect/UseEffectTest_loop.js">무한반복</a>
+  * <a href="https://github.com/kim-do-kyun/React/blob/main/0503/Web%20Programming07/src/useEffect/UseEffectTest_first.js">처음에만 실행</a>
+  * <a href="https://github.com/kim-do-kyun/React/blob/main/0503/Web%20Programming07/src/useEffect/UseEffectTest_independ.js">의존성 배열 사용</a>
 * **useEffect - cleanup**
 * 이벤트 등록 후 호출되지 않으면 사라지지 않음 따라서 이를 처리하는 방법이 필요
 * return을 사용하지 않으면 새로운 useEffect를 수행하기 전에 아무런 작업을 하지 않는 것으로 인식
