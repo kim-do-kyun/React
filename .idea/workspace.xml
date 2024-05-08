@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1455b71-bcfc-4319-83f9-bd2115376163" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/0322/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0322/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1455b71-bcfc-4319-83f9-bd2115376163" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +13,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2g8QQ2uSYg0JQYrGjJ4EG3GxKXv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +28,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/대학자료/3학년1학기/웹프로그래밍응용(레포트)/React",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -42,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715076704934</updated>
       <workItem from="1715076705968" duration="15000" />
+      <workItem from="1715149181157" duration="35000" />
     </task>
     <servers />
   </component>
