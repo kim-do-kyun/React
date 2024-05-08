@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1455b71-bcfc-4319-83f9-bd2115376163" name="Changes" comment="" />
+    <list default="true" id="d1455b71-bcfc-4319-83f9-bd2115376163" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0503/피그마/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0503/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0503/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0503/자기소개페이지/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0503/자기소개페이지/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +38,10 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/대학자료/3학년1학기/웹프로그래밍응용(레포트)/React",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -42,6 +56,7 @@
       <updated>1715076704934</updated>
       <workItem from="1715076705968" duration="15000" />
       <workItem from="1715149181157" duration="35000" />
+      <workItem from="1715155060041" duration="1298000" />
     </task>
     <servers />
   </component>

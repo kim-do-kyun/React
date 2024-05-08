@@ -1,6 +1,7 @@
 # Custom hook을 사용해서 자기소개 페이지 구성하기
 > 메모할수 있는 기능을 추가
 <hr>
+<a href="https://kim-do-kyun.github.io/React/0503/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%ED%8E%98%EC%9D%B4%EC%A7%80/build/">자기소개 페이지 바로가기</a>
 
 * Custom hook 구성
 ```

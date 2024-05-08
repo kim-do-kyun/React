@@ -8,10 +8,10 @@
 
 :pushpin: 아래 링크 클릭시 해당 github파일 위치로이동
 
-|📚과제내용📚|
-|-------------------------------------------------------------|
-|<a href="https://github.com/kim-do-kyun/React/tree/main/0322">리액트 시작하기(2024.03.22)|
-|<a href="https://github.com/kim-do-kyun/React/tree/main/0329">JSX, 자기소개페이지, 수업내용 등(2024.03.29)|
-|<a href="https://github.com/kim-do-kyun/React/tree/main/0405">Component, Props(2024.04.05)|
-|<a href="https://github.com/kim-do-kyun/React/tree/main/0412">Component, Props(추가진도), State(2024.04.12)|
-|<a href="https://github.com/kim-do-kyun/React/tree/main/0503">Wep-Programming07, 07-1(Hook들)(2024.05.03)|
+| 📚과제내용📚                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/kim-do-kyun/React/tree/main/0322">리액트 시작하기(2024.03.22)                                     |
+| <a href="https://github.com/kim-do-kyun/React/tree/main/0329">JSX, 자기소개페이지, 수업내용 등(2024.03.29)                         |
+| <a href="https://github.com/kim-do-kyun/React/tree/main/0405">Component, Props(2024.04.05)                             |
+| <a href="https://github.com/kim-do-kyun/React/tree/main/0412">Component, Props(추가진도), State(2024.04.12)                |
+| <a href="https://github.com/kim-do-kyun/React/tree/main/0503">Wep-Programming07, 07-1(Hook들), 자기소개페이지, 피그마(2024.05.03) |
